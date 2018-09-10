@@ -1,2 +1,2 @@
-#Simple Quiz
+# Simple Quiz
 simple math quiz game
